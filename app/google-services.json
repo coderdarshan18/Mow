@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1014547280442",
+    "project_id": "move-on-wheels",
+    "storage_bucket": "move-on-wheels.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014547280442:android:855573314699c667b6bb03",
+        "android_client_info": {
+          "package_name": "com.motocross.moveonwheels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014547280442-7ksco5p0uu841vnppe7tqnnl8c6h1th2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.motocross.moveonwheels",
+            "certificate_hash": "2f66ca4978339a5c199e977a81e39eb32a02c2b2"
+          }
+        },
+        {
+          "client_id": "1014547280442-af0qjlhsom8hmuck2a0uh6sbtbhtgmbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrbDEcB3IxYoyAFoHld4VMygsJ1WtWrDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014547280442-af0qjlhsom8hmuck2a0uh6sbtbhtgmbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

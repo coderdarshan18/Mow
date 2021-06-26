@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff9800</color>
+    <color name="colorPrimaryDark">#c66900</color>
+    <color name="colorLight">#ffc947</color>
+    <color name="colorAccent">#FF9800</color>
+
+    <color name="background">#f5f8fa</color>
+    <color name="lightFont">#C7D0E5</color>
+    <color name="default_color">#E0E5F3</color>
+    <color name="faint_color">#F39CB9</color>
+    <color name="light_color">#ff6090</color>
+    <color name="transparent">#00000000</color>
+    <color name="shimmer_background_color">#b1b1b1</color>
+    <color name="background1">#E6ECF0</color>
+
+    <!-- Main App colors -->
+    <color name="main_white">#FFFFFF</color>
+    <color name="main_black">#070604</color>
+    <color name="main_dark_grey">#212121</color>
+    <color name="main_grey">#606060</color>
+    <color name="main_medium_grey">#a5a5a5</color>
+    <color name="main_light_grey">#dbdbdb</color>
+    <color name="divider_color">#BDBDBD</color>
+    <color name="colorDrawerIconsChecked">#82acf7</color>
+    <color name="blue_text">#0A5CEE</color>
+    <color name="grey_five">#555</color>
+    <color name="overlay">#AA1C1C1C</color>
+    <color name="black_trans80">#33000000</color>
+    <color name="tranceparent">#4D000000</color>
+
+    <color name="blue_mm">#007Bff</color>
+    <color name="red_mm">#E13333</color>
+    <color name="green_mm">#4CAF50</color>
+    <color name="green_nn">#0F8A14</color>
+    <color name="yellow_mm">#FFC107</color>
+    <color name="noti_unread">#D9EDF7</color>
+    <color name="icon_color">#A5A2A2</color>
+</resources>

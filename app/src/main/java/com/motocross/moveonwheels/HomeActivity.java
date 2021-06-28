@@ -164,8 +164,6 @@ public class HomeActivity extends AppCompatActivity {
 
             }
 
-
-
         });
 
 
@@ -192,24 +190,14 @@ public class HomeActivity extends AppCompatActivity {
                         returnTime.setText(String.format("%02d:%02d", hourOfDay, minutes) + amPm);
 //                        returnTime.setText(String.format("%02d",hourOfDay));
 
-
                     }
                 }, currentHour, currentMinute, false);
 
                 timePickerDialog.show();
 
-
             }
 
-
-
         });
-
-
-
-
-
-
 
 
 

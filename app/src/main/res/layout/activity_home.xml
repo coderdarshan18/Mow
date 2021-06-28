@@ -6,11 +6,9 @@
     android:layout_height="match_parent"
     tools:context=".HomeActivity">
 
-    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:tools="http://schemas.android.com/tools"
+    <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        xmlns:app="http://schemas.android.com/apk/res-auto"
 
         tools:context=".MainActivity">
 
@@ -23,11 +21,11 @@
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="350dp"
+            android:layout_marginTop="230dp"
             app:cardBackgroundColor="@color/main_white"
             app:cardCornerRadius="20dp"
             app:cardElevation="10dp"
             app:cardMaxElevation="15dp"
-            android:layout_marginTop="230dp"
             app:cardPreventCornerOverlap="true"
             app:cardUseCompatPadding="true">
 
@@ -63,9 +61,8 @@
                 <View
                     android:layout_width="2dp"
                     android:layout_height="25dp"
-                    android:background="@color/icon_color"
                     android:layout_marginTop="10dp"
-                    />
+                    android:background="@color/icon_color" />
 
                 <TextView
                     android:id="@+id/pickTime"
@@ -111,12 +108,12 @@
                     android:inputType="text"
                     android:text="Date"
                     android:textColor="@color/main_grey" />
+
                 <View
                     android:layout_width="2dp"
                     android:layout_height="25dp"
-                    android:background="@color/icon_color"
                     android:layout_marginTop="10dp"
-                    />
+                    android:background="@color/icon_color" />
 
                 <TextView
                     android:id="@+id/dropTime"
@@ -130,7 +127,7 @@
                     android:ems="10"
                     android:inputType="text"
                     android:text="time"
-                    android:textColor="@color/main_grey"/>
+                    android:textColor="@color/main_grey" />
 
 
             </LinearLayout>
@@ -139,10 +136,10 @@
                 android:id="@+id/textView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="PickUp"
-                android:layout_marginTop="30dp"
-                android:textColor="@color/main_black"
                 android:layout_marginLeft="10dp"
+                android:layout_marginTop="30dp"
+                android:text="PickUp"
+                android:textColor="@color/main_black"
 
                 />
 
@@ -150,10 +147,10 @@
                 android:id="@+id/textView1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Drop"
-                android:layout_marginTop="120dp"
-                android:textColor="@color/main_black"
                 android:layout_marginLeft="10dp"
+                android:layout_marginTop="120dp"
+                android:text="Drop"
+                android:textColor="@color/main_black"
 
                 />
 
@@ -161,9 +158,9 @@
                 android:id="@+id/btnSearch"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
                 android:layout_marginTop="230dp"
                 android:layout_marginRight="10dp"
-                android:layout_marginLeft="10dp"
                 android:text="Search" />
 
 
